@@ -1,0 +1,41 @@
+<?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed'); ?>
+
+ERROR - 2014-11-22 18:22:49 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp\www\Esgotado\system\database\drivers\mysql\mysql_driver.php 91
+ERROR - 2014-11-22 18:22:49 --> Severity: Notice  --> mysql_pconnect(): send of 5 bytes failed with errno=10053 An established connection was aborted by the software in your host machine.
+ C:\wamp\www\Esgotado\system\database\drivers\mysql\mysql_driver.php 91
+ERROR - 2014-11-22 18:23:02 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp\www\Esgotado\system\database\drivers\mysql\mysql_driver.php 91
+ERROR - 2014-11-22 18:24:23 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp\www\Esgotado\system\database\drivers\mysql\mysql_driver.php 91
+ERROR - 2014-11-22 18:24:23 --> Severity: Notice  --> mysql_pconnect(): send of 5 bytes failed with errno=10053 An established connection was aborted by the software in your host machine.
+ C:\wamp\www\Esgotado\system\database\drivers\mysql\mysql_driver.php 91
+ERROR - 2014-11-22 18:25:08 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp\www\Esgotado\system\database\drivers\mysql\mysql_driver.php 91
+ERROR - 2014-11-22 18:25:10 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp\www\Esgotado\system\database\drivers\mysql\mysql_driver.php 91
+ERROR - 2014-11-22 18:25:34 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp\www\Esgotado\system\database\drivers\mysql\mysql_driver.php 91
+ERROR - 2014-11-22 18:25:34 --> Severity: Notice  --> mysql_pconnect(): send of 5 bytes failed with errno=10053 An established connection was aborted by the software in your host machine.
+ C:\wamp\www\Esgotado\system\database\drivers\mysql\mysql_driver.php 91
+ERROR - 2014-11-22 18:26:08 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp\www\Esgotado\system\database\drivers\mysql\mysql_driver.php 91
+ERROR - 2014-11-22 18:26:08 --> Severity: Notice  --> mysql_pconnect(): send of 5 bytes failed with errno=10053 An established connection was aborted by the software in your host machine.
+ C:\wamp\www\Esgotado\system\database\drivers\mysql\mysql_driver.php 91
+ERROR - 2014-11-22 18:26:41 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp\www\Esgotado\system\database\drivers\mysql\mysql_driver.php 91
+ERROR - 2014-11-22 18:27:03 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp\www\Esgotado\system\database\drivers\mysql\mysql_driver.php 91
+ERROR - 2014-11-22 18:27:11 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp\www\Esgotado\system\database\drivers\mysql\mysql_driver.php 91
+ERROR - 2014-11-22 18:27:11 --> Severity: Notice  --> mysql_pconnect(): send of 5 bytes failed with errno=10053 An established connection was aborted by the software in your host machine.
+ C:\wamp\www\Esgotado\system\database\drivers\mysql\mysql_driver.php 91
+ERROR - 2014-11-22 18:27:26 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp\www\Esgotado\system\database\drivers\mysql\mysql_driver.php 91
+ERROR - 2014-11-22 18:27:37 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp\www\Esgotado\system\database\drivers\mysql\mysql_driver.php 91
+ERROR - 2014-11-22 18:27:44 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp\www\Esgotado\system\database\drivers\mysql\mysql_driver.php 91
+ERROR - 2014-11-22 18:28:24 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp\www\Esgotado\system\database\drivers\mysql\mysql_driver.php 91
+ERROR - 2014-11-22 18:28:29 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp\www\Esgotado\system\database\drivers\mysql\mysql_driver.php 91
+ERROR - 2014-11-22 18:28:38 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp\www\Esgotado\system\database\drivers\mysql\mysql_driver.php 91
+ERROR - 2014-11-22 18:28:44 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp\www\Esgotado\system\database\drivers\mysql\mysql_driver.php 91
+ERROR - 2014-11-22 18:28:54 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp\www\Esgotado\system\database\drivers\mysql\mysql_driver.php 91
+ERROR - 2014-11-22 18:28:59 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp\www\Esgotado\system\database\drivers\mysql\mysql_driver.php 91
+ERROR - 2014-11-22 18:29:13 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp\www\Esgotado\system\database\drivers\mysql\mysql_driver.php 91
+ERROR - 2014-11-22 18:29:18 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp\www\Esgotado\system\database\drivers\mysql\mysql_driver.php 91
+ERROR - 2014-11-22 18:29:25 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp\www\Esgotado\system\database\drivers\mysql\mysql_driver.php 91
+ERROR - 2014-11-22 18:30:51 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp\www\Esgotado\system\database\drivers\mysql\mysql_driver.php 91
+ERROR - 2014-11-22 18:30:53 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp\www\Esgotado\system\database\drivers\mysql\mysql_driver.php 91
+ERROR - 2014-11-22 18:31:01 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp\www\Esgotado\system\database\drivers\mysql\mysql_driver.php 91
+ERROR - 2014-11-22 18:32:04 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp\www\Esgotado\system\database\drivers\mysql\mysql_driver.php 91
+ERROR - 2014-11-22 18:32:31 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp\www\Esgotado\system\database\drivers\mysql\mysql_driver.php 91
+ERROR - 2014-11-22 18:32:38 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp\www\Esgotado\system\database\drivers\mysql\mysql_driver.php 91
+ERROR - 2014-11-22 18:33:51 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead C:\wamp\www\Esgotado\system\database\drivers\mysql\mysql_driver.php 91
